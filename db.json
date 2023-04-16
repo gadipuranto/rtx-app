@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "product satu",
+      "price": 100
+    },
+    {
+      "title": "product 2",
+      "price": "220",
+      "id": 2
+    },
+    {
+      "title": "product 3",
+      "price": 100,
+      "id": 6
+    },
+    {
+      "title": "Product empat",
+      "price": "77",
+      "id": 7
+    },
+    {
+      "title": "leminerale 250ml",
+      "price": "2000",
+      "id": 9
+    }
+  ]
+}
